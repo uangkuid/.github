@@ -2,7 +2,7 @@
 
 ## About Uangku
 
-Uangku is a company that develops financial tracking applications with a strong commitment to user privacy and security. Our core principles are built on **privacy-first** and **zero-knowledge** architecture, ensuring that your financial data remains completely private and secure.
+Uangku is a group that develops financial tracking applications with a strong commitment to user privacy and security. Our core principles are built on **privacy-first** and **zero-knowledge** architecture, ensuring that your financial data remains completely private and secure.
 
 ### Key Features
 
